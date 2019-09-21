@@ -42,7 +42,6 @@ public class AppLogs {
          service.stop ();
 
 
-
     }
 
 
